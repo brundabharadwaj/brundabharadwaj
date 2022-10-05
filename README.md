@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💼 Working as Full Stack Developer at <b>Mercedes Benz Research and Developement India</b>.
-- 📫 How to reach me: [Gmail](brundabharadwaj22@gmail.com) or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
+- 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 - 🤔 I’m looking for help with new open source project for beginners with Tech stack  as Java (Backend) and React (Frontend)
 - 🔭 I’m currently participating in **#hacktoberfest2022**
 - 🌱 I’m currently learning Datadog, Azure and Kafka
