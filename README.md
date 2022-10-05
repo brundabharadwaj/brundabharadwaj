@@ -4,8 +4,12 @@
 - 🔭 I’m currently participating in **#hacktoberfest2022**
 - 🌱 I’m currently learning Datadog, Azure and Kafka
 ****
+<img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
+
+
 <!--
 **brundabharadwaj/brundabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
