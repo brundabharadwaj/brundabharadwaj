@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 📫 How to reach me: brundabharadwaj22@gmail.com
+- 📫 How to reach me: [Gmail](brundabharadwaj22@gmail.com) or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj) 
 - 🤔 I’m looking for help with new open source project for beginners with Tech stack  as Java (Backend) and React (Frontend)
-- 🔭 I’m currently participating in #hacktoberfest 2022
+- 🔭 I’m currently participating in **#hacktoberfest2022**
+- 🌱 I’m currently learning Datadog, Azure and Kafka
 <!--
 **brundabharadwaj/brundabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
