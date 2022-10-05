@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 📫 How to reach me: brundabharadwaj22@gmail.com
+- 🤔 I’m looking for help with new open source project for beginners with Tech stack Java (Backend) and React (Frontend)
+- 🔭 I’m currently participating in #hacktoberfest 2022
 <!--
 **brundabharadwaj/brundabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
