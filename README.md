@@ -4,6 +4,7 @@
 - 🤔 I’m looking for help with new open source project for beginners with Tech stack  as Java (Backend) and React (Frontend)
 - 🔭 I’m currently participating in **#hacktoberfest2022**
 - 🌱 I’m currently learning Datadog, Azure and Kafka
+- :airplane: And yes, I am Traveller not a Tourist!
 ****
 <img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
