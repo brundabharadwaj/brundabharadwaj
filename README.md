@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Datadog, Azure and Kafka
 - :airplane: And yes, I am Traveller not a Tourist!
 ****
-<img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>
 
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
