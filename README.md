@@ -8,6 +8,11 @@
 ****
 <img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>
 
+***
+
+
+![LeetCode Stats](https://leetcode.card.workers.dev/brunda_bharadwaj?theme=unicorn&font=baloo&extension=null)
+
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
 
