@@ -1,10 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Brunda Bharadwaj</h1>
+
 - 💼 Working as Full Stack Developer at <b>Mercedes Benz Research and Developement India</b>.
-- 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 - 🤔 I’m looking for help with new open source project for beginners having Tech stack  as Java (Backend) and React (Frontend)
 - 🔭 I’m currently participating in **#hacktoberfest2022**
 - 🌱 I’m currently learning Datadog, Azure and Kafka
 - :airplane: And yes, I am Traveller not a Tourist!
+- 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 ****
 <img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>
 
@@ -16,6 +17,7 @@
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
 
+![Visitor Count](https://profile-counter.glitch.me/brunda_bharadwaj/count.svg)
 
 <!--
 **brundabharadwaj/brundabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
