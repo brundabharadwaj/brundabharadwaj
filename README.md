@@ -17,7 +17,7 @@
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
 
-![Visitor Count](https://profile-counter.glitch.me/brunda_bharadwaj/count.svg)
+
 
 <!--
 **brundabharadwaj/brundabharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
