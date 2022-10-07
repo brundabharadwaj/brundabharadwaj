@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brunda Bharadwaj</h1>
 
-- 💼 Working as Full Stack Developer at <b>Mercedes Benz Research and Developement India</b>.
+- 💼 Working as Full Stack Developer at <a href="https://www.mbrdi.co.in/"><b>Mercedes Benz Research and Developement India</b></a>.
 - 🤔 I’m looking for help with new open source project for beginners having Tech stack  as Java (Backend) and React (Frontend)
 - 🔭 I’m currently participating in **#hacktoberfest2022**
 - 🌱 I’m currently learning Datadog, Azure and Kafka
