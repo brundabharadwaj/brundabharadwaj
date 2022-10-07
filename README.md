@@ -7,12 +7,7 @@
 - :airplane: And yes, I am Traveller not a Tourist!
 - 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 ****
-<img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>
-
-***
-
-
-![LeetCode Stats](https://leetcode.card.workers.dev/brunda_bharadwaj?theme=unicorn&font=baloo&extension=null)
+<div><img src="https://github-readme-stats.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>&nbsp;&nbsp;&nbsp;<img src="https://leetcard.jacoblin.cool/brunda_bharadwaj?theme=dark&font=Content&ext=contest"/></div>
 
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
