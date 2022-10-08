@@ -7,6 +7,7 @@
 - :airplane: And yes, I am Traveller not a Tourist!
 - 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 ****
+![Anurag's GitHub stats](https://github-readme-stats-xi-beige-25.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=radical)
 <div><img src="https://github-readme-stats-xi-beige-25.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>&nbsp;&nbsp;<img src="https://leetcard.jacoblin.cool/brunda_bharadwaj?theme=dark&font=Content&ext=contest"/></div>
 
 ****
