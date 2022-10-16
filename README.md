@@ -7,7 +7,7 @@
 - :airplane: And yes, I am Traveller not a Tourist! Do checkout my YouTube channel: [Its and Bits of Travel](https://www.youtube.com/channel/UC_QJpNqS12Pxzf2J6q9Gkkw)
 - 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 ****
-<div><img src="https://github-readme-stats-xi-beige-25.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>
+<img src="https://github-readme-stats-xi-beige-25.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>    ![Leetcode Stats](https://leetcard.jacoblin.cool/brunda_bharadwaj?theme=dark)
   
   
 ****
