@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Brunda Bharadwaj</h1>
 
 - 💼 Working as Full Stack Developer at <a href="https://www.mbrdi.co.in/"><b>Mercedes Benz Research and Developement India</b></a>.
-- 🤔 I’m looking for new open source project for beginners having Tech stack  as Java (Backend) and React (Frontend)
+- 🤔 I’m looking for new open source project for beginners having Tech stack  as Java and React 
 - 🌱Currently learning Datadog, Azure and Kafka
 - :airplane: And yes, I am a Traveller not a Tourist! 
 - 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
