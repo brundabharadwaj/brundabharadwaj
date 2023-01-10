@@ -1,10 +1,7 @@
-<h1 align="center">👋 Brunda M Bharadwaj</h1>
+<h1 align="center"> Brunda M Bharadwaj</h1>
+:airplane: Traveller not a Tourist! 
 
-- 💼 Full Stack Developer at <a href="https://www.mbrdi.co.in/"><b>Mercedes Benz Research and Developement India</b></a>.
-- 🤔 Looking for open source project for beginners
-- 🌱Currently learning Datadog, Azure and Kafka
-- :airplane:  Traveller not a Tourist! 
-- 📫 How to reach me: <a href="mailto:brundabharadwaj98@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
+📫: <a href="mailto:brundabharadwaj98@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
   
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
