@@ -1,10 +1,10 @@
-<h1 align="center">👋 I'm Brunda Bharadwaj</h1>
+<h1 align="center">👋 Brunda M Bharadwaj</h1>
 
-- 💼 Working as Full Stack Developer at <a href="https://www.mbrdi.co.in/"><b>Mercedes Benz Research and Developement India</b></a>.
-- 🤔 I’m looking for new open source project for beginners having Tech stack  as Java and React 
+- 💼 Full Stack Developer at <a href="https://www.mbrdi.co.in/"><b>Mercedes Benz Research and Developement India</b></a>.
+- 🤔 Looking for open source project for beginners
 - 🌱Currently learning Datadog, Azure and Kafka
-- :airplane: And yes, I am a Traveller not a Tourist! 
-- 📫 How to reach me: <a href="mailto:brundabharadwaj22@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
+- :airplane:  Traveller not a Tourist! 
+- 📫 How to reach me: <a href="mailto:brundabharadwaj98@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj)
 ****
 <img src="https://github-readme-stats-xi-beige-25.vercel.app/api?username=brundabharadwaj&&show_icons=true&title_color=fe3fdd&icon_color=bd2adf&text_color=daa7de&bg_color=151517"/>    ![Leetcode Stats](https://leetcard.jacoblin.cool/brunda_bharadwaj?theme=dark)
   
