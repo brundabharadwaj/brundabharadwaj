@@ -4,12 +4,18 @@
 📫: <a href="mailto:brundabharadwaj98@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj) <br/>
 💼: Full stack developer at Mercedes Benz Research and Developemnt India, Bangalore. <br/>
 Experience: 2 years <br/>
-Backend: <br/>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb&perline=10)](https://skillicons.dev) <br/>
-Frontend:<br/>
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,materialui&perline=10)](https://skillicons.dev) <br/>
-DevOps: <br/>
-[![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,docker&perline=10)](https://skillicons.dev) <br/>
+<h2 align="center">Skill set</h2><br/>
+
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
+
+  
+  
+  
+  
+  
+  
+  
+  
   
 ****
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
