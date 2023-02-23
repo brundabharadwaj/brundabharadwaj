@@ -1,4 +1,4 @@
-<h1 align="center"> 🙋‍♀️ Brunda M Bharadwaj</h1>
+<h1 align="center"> Brunda M Bharadwaj</h1>
 <br/>
 
 
@@ -8,7 +8,11 @@
 
  [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
 
-![](https://leetcard.jacoblin.cool/brundabharadwaj?theme=dark)&nbsp;[!['Brunda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brundabharadwaj/github-readme-stats#gh-dark-mode-only)
+
+
+
+![](https://leetcard.jacoblin.cool/brundabharadwaj?theme=dark)
+<!-- [!['Brunda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brundabharadwaj/github-readme-stats#gh-dark-mode-only) -->
 
   
   
