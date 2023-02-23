@@ -9,7 +9,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
 
-  
+![](https://leetcard.jacoblin.cool/brundabharadwaj?ext=heatmap&theme=dark)
   
   
   
