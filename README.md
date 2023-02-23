@@ -1,9 +1,10 @@
 <h1 align="center"> Brunda M Bharadwaj</h1>
-:airplane: Traveller not a Tourist! 
+<br/>
 
-📫: <a href="mailto:brundabharadwaj98@gmail.com" target="_blank">Gmail</a> or via [LinkedIn](www.linkedin.com/in/brunda-m-bharadwaj) <br/>
-💼: Full stack developer at Mercedes Benz Research and Developemnt India, Bangalore. <br/>
-Experience: 2 years <br/>
+![full-stack-developer](https://user-images.githubusercontent.com/49773125/220838479-cab23133-d761-4ba9-aa88-4b1e751a1ab4.jpg)
+
+
+💼: Mercedes Benz Research and Developemnt India, Bangalore.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
 <h2 align="center">Skill set</h2><br/>
 
  [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
