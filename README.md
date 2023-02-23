@@ -7,7 +7,7 @@
 💼: Mercedes Benz Research and Developemnt India, Bangalore.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
 <h2 align="center">Skill Set</h2><br/>
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
 
   
   
