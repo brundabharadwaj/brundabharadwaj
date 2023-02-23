@@ -20,7 +20,7 @@
   
   
 ****
-[![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah)](https://holopin.io/@brundabharadwah)
+[![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah&size=1px)](https://holopin.io/@brundabharadwah)
 
 
 
