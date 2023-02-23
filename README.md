@@ -1,7 +1,6 @@
 <h1 align="center"> Brunda M Bharadwaj</h1>
 <br/>
 
-![full-stack-developer](https://user-images.githubusercontent.com/49773125/220838479-cab23133-d761-4ba9-aa88-4b1e751a1ab4.jpg)
 
 
 💼: Mercedes Benz Research and Developemnt India, Bangalore.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
