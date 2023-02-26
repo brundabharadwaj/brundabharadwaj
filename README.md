@@ -5,15 +5,34 @@
 
 💼: Mercedes Benz Research and Developemnt India, Bengalury.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
 <h2 align="center">Skill Set</h2><br/>
+<p align="center">
+ 
+ 
+ 
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev)  ![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark)
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
+</p>
 
 
+ 
+             
+             
 
 
-![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark)
-<!-- [!['Brunda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Codes_in_java&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brundabharadwaj/github-readme-stats#gh-dark-mode-only) -->
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
