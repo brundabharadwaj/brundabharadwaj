@@ -3,7 +3,7 @@
 
 
 
-💼: Mercedes Benz Research and Developemnt India, Bengalury.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
+💼: Mercedes Benz Research and Developemnt India, Bengaluru.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
 <h2 align="center">Skill Set</h2><br/>
 <p align="center">
  
