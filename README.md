@@ -3,45 +3,13 @@
 
 
 
-💼: Mercedes Benz Research and Developemnt India, Bengaluru.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
-<h2 align="center">Skill Set</h2><br/>
-<p align="center">
- 
- 
- 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev)  ![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark)
-
-</p>
-
+💼: Mercedes Benz Research and Developemnt India, Bengaluru.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp; <br/>
 
  
-             
-             
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-****
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
+ 
+ ![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark) <br/>
+ 
 [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah&size=1px)](https://holopin.io/@brundabharadwah)
 
 
