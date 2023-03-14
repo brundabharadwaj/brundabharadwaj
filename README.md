@@ -5,9 +5,11 @@
 
 - 💼 Mercedes Benz Research and Developemnt India, Bengaluru.
 - 🔴 Experience: 2 years
+- ⚡ Full stack developer
 - :airplane: Traveller not a Tourist! 
 
 
+ 
  
 
  ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20) 
