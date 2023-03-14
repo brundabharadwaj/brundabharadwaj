@@ -8,7 +8,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,postgres,mongodb,html,css,react,materialui,bootstrap,docker,kubernetes,azure&perline=15)](https://skillicons.dev) 
  
- ![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark) ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20)
+ ![](https://leetcard.jacoblin.cool/Codes_in_java?theme=dark&width=500) ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20)
  
 <!-- [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah&size=1px)](https://holopin.io/@brundabharadwah) -->
 
