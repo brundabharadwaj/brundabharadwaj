@@ -1,10 +1,12 @@
-<h1 align="center"> Brunda M Bharadwaj</h1>
-<br/>
+# 👋 Bit about myself: Brunda M Bharadwaj
 
 
 
-💼: Mercedes Benz Research and Developemnt India, Bengaluru.&nbsp;🔴 Experience: 2 years &nbsp; :airplane: Traveller not a Tourist! &nbsp;
-![](https://komarev.com/ghpvc/?username=brundabharadwaj) <br/>
+
+- 💼 Mercedes Benz Research and Developemnt India, Bengaluru.
+- 🔴 Experience: 2 years
+- :airplane: Traveller not a Tourist! 
+
 
  
 
