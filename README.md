@@ -9,10 +9,23 @@
 - :airplane: Traveller not a Tourist! 
 
 
- 
- 
+ <table>
+ <th>Statistics</th>
+ <td>
 
- ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20) 
+ ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20)
+ 
+ </td>
+ <th>Leet code</th>
+ <td>
+ 
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/codes_in_java)](https://leetcode.com/codes_in_java)
+ 
+ </td>
+ </table>
+
+
+ 
 
  
 <!-- [![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah&size=1px)](https://holopin.io/@brundabharadwah) -->
