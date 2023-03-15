@@ -1,4 +1,4 @@
-# 👋 Bit about myself: Brunda M Bharadwaj
+# 👋 Bit about Brunda M Bharadwaj
 
 
 
