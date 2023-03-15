@@ -1,4 +1,4 @@
-# 👋 Bit about Brunda M Bharadwaj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# 👋Brunda M Bharadwaj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/49773125/225204851-c60e7969-ebf2-4853-96e5-8aa2ac148219.png" width="200" />
 
 
@@ -15,12 +15,21 @@
  ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20)
  
  </td>
- <th>Leet code</th>
+ <th>Leet&nbsp;code</th>
  <td>
  
  [![Leetcode Stats](https://leetcard.jacoblin.cool/codes_in_java)](https://leetcode.com/codes_in_java)
  
  </td>
+ </table>
+ <table>
+ <th>Holopin:heart:  </th>
+ <td>
+
+[![@brundabharadwah's Holopin board](https://holopin.io/api/user/board?user=brundabharadwah&size=1px)](https://holopin.io/@brundabharadwah)
+ 
+ </td>
+
  </table>
 
 
