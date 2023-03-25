@@ -5,7 +5,8 @@
 - 💼 Mercedes Benz Research and Developemnt India, Bengaluru.
 - 🔴 Experience: 2.5 years
 - ⚡ Full stack developer
-- :airplane: Traveller not a Tourist! 
+- :airplane: Traveller not a Tourist!
+- :link: <a href="https://www.linkedin.com/mynetwork/" target="_blank">LinkedIn</a>,<a href="https://www.linkedin.com/mynetwork/"> Twitter</a>
 
 
  <table>
