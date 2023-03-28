@@ -10,12 +10,7 @@
 
 
  <table>
- <th>Statistics</th>
- <td>
-
- ![Statistics](https://github-readme-stats.vercel.app/api?username=brundabharadwaj&show_icons=true&theme=dark&width=20)
  
- </td>
  <th>Leet&nbsp;code</th>
  <td>
  
