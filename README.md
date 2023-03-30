@@ -2,9 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/49773125/225204851-c60e7969-ebf2-4853-96e5-8aa2ac148219.png" width="200" />
 
 
-- 💼 Mercedes Benz Research and Developemnt India, Bengaluru.
-- 🔴 Experience: 2.5 years
-- ⚡ Full stack developer
+-  Full stack developer
 - :airplane: Traveller not a Tourist!
 - :link: <a href="https://www.linkedin.com/mynetwork/" target="_blank">LinkedIn</a>,<a href="https://www.linkedin.com/mynetwork/"> Twitter</a>
 
