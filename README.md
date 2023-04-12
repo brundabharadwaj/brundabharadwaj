@@ -3,6 +3,7 @@
 
 
 -  Full stack developer
+-  Open to contribute to any React, Java Projects
 - :airplane: Traveller not a Tourist!
 - :link: <a href="https://www.linkedin.com/mynetwork/" target="_blank">LinkedIn</a>,<a href="https://www.linkedin.com/mynetwork/"> Twitter</a>
 
