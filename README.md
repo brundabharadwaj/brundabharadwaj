@@ -3,7 +3,7 @@
 
 
 -  Full stack developer
--  Open to contribute to any React, Java Projects
+-  Open to contribute to React? Java related projects
 
 
  <table>
