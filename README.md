@@ -3,7 +3,7 @@
 
 
 -  Full stack developer
--  Open to contribute to React and Java related projects
+-  Open for collaboration
  <table>
  <th>Holopin:heart:  </th>
  <td>
