@@ -4,17 +4,6 @@
 
 -  Full stack developer
 -  Open to contribute to React and Java related projects
-
-
- <table>
- 
- <th>Leet&nbsp;code</th>
- <td>
- 
- [![Leetcode Stats](https://leetcard.jacoblin.cool/codes_in_java)](https://leetcode.com/codes_in_java)
- 
- </td>
- </table>
  <table>
  <th>Holopin:heart:  </th>
  <td>
