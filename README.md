@@ -3,7 +3,6 @@
 
 
 -  Full stack developer
--  Open for collaboration
  <table>
  <th>Holopin:heart:  </th>
  <td>
