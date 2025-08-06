@@ -1,14 +1,4 @@
    <div align="center"><h3>Brunda M Bharadwaj </h3></div> 
-   
-![Brunda Bharadwaj](https://github.com/user-attachments/assets/fbe33947-af86-4020-8980-61e2775c6fd4)
-
-- **Full Stack Developer**
-- **Projects:**
-  - **RabbitStream:**  
-    [Micro-service A](https://github.com/brundabharadwaj/micro-service-a)  
-    [Micro-service B](https://github.com/brundabharadwaj/micro-service-b)
-  - **Connected Systems:**
-	[Details](https://github.com/brundabharadwaj/CSMS)
     
 **Programming Languages:**
  <div align="left">
